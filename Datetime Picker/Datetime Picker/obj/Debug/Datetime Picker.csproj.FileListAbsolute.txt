@@ -1,0 +1,11 @@
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\bin\Debug\Datetime Picker.exe.config
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\bin\Debug\Datetime Picker.exe
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\bin\Debug\Datetime Picker.pdb
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime Picker.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime Picker.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime_Picker.Form1.resources
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime_Picker.Properties.Resources.resources
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime Picker.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime Picker.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime Picker.exe
+C:\Users\ucenik\source\repos\Datetime Picker\Datetime Picker\obj\Debug\Datetime Picker.pdb
